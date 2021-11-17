@@ -1,0 +1,85 @@
+@charset "ISO-8859-1";
+.loaisach{
+	margin: 0 20px;
+}
+.contain{
+	display:flex;
+}
+.titleLoaisach{
+margin-left:20px;
+}
+.tableSach{
+	margin-top:50px;
+	left:100px;	
+}
+.aBook{
+	padding:0;
+	margin:0;
+}
+.imageSach{
+width:270px;
+height:250px;
+
+}
+.descriptionSach{
+text-align:center;
+margin: 30px 0;
+}
+.contentSearch{
+display:flex;
+}
+.formSearch{
+	margin-left:150px;
+}
+.searchInput{
+margin-right:5px;
+}
+.searchQuantri{
+	margin-right:5px;	
+}
+.btnBuy{
+	background:#fff;
+}
+.divider-text {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divider-text span {
+    padding: 7px;
+    font-size: 12px;
+    position: relative;   
+    z-index: 2;
+}
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+}
+.btn-twitter {
+    background-color: #42AEEC;
+    color: #fff;
+}
+ #header{
+    text-align: center;
+    margin: 100px 0;
+}
+#header a{
+    padding: 10px;
+    margin:30px;
+    border:1px solid green;
+}
+.table-ql{
+    margin: 30px;
+}
+
